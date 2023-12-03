@@ -153,4 +153,3 @@ const apidata = {
     ]
 }
 
-module.exports = apidata
