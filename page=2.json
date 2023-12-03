@@ -1,85 +1,82 @@
-
-const apidata = {
-    videoapi: [
-        {
-            id: '13',
-            category: 'python',
-            title: '#1 Python Tutorial for Beginners | Introduction to Python',
-            link: 'https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw'
-        },
-        {
-            id: '14',
-            category: 'python',
-            title: '#1 Python Tutorial for Beginners | Introduction to Python',
-            link: 'https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw'
-        },
-        {
-            id: '15',
-            category: 'Computer Science',
-            title: 'Introduction to Programming and Computer Science - Full Course',
-            link: 'https://youtu.be/zOjov-2OZ0E?si=Si_wxSim1H1tvMQo'
-        },
-        {
-            id: '16',
-            category: 'Dart SDK',
-            title: 'The Current Dart SDK version is 2.19.2 Error SOLVED in Flutter when running pub get',
-            link: 'https://youtu.be/8fnyDKLFZy0?si=dRL6OaPD_A7xmi0p'
-        },
-        {
-            id: '17',
-            category: 'JSON',
-            title: 'Learn JSON in 10 Minutes',
-            link: 'https://youtu.be/iiADhChRriM?si=pxaGWk3RjZSICa2e'
-        },
-        {
-            id: '18',
-            category: 'APIs',
-            title: 'APIs Explained | Real World Examples',
-            link: 'https://youtu.be/ZveW4_ZJtVY?si=WEh-AJ8_vTA1oJ-I',
-        },
-        {
-            id: '19',
-            category: 'REST API',
-            title: 'What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka',
-            link: 'https://youtu.be/rtWH70_MMHM?si=BjGcvs36hXBEZUK9',
-        },
-        {
-            id: '20',
-            category: 'JAVA API',
-            title: 'Java API | Developing Restful APIs | Rest API In Java | Java Tutorial | Java Training | Edureka',
-            link: 'https://youtu.be/5jQSat1cKMo?si=MJzhXu38kbp68zs8',
-        },
-        {
-            id: '21',
-            category: 'COOKIES',
-            title: 'Difference between cookies, session and tokens',
-            link: 'https://youtu.be/GhrvZ5nUWNg?si=Os5tgKDbFX5YIdBi',
-        },
-        {
-            id: '22',
-            category: 'token',
-            title: 'Token vs Session Authentication | Authentication Explained!!!',
-            link: 'https://youtu.be/QzntvHz23tw?si=yl3YPgN5TbD4hAzb',
-        },
-        {
-            id: '23',
-            category: 'NODE.JS',
-            title: 'Node.js Tutorial for Beginners: Learn Node in 1 Hour',
-            link: 'https://youtu.be/TlB_eWDSMt4?si=Yvsx_5PZ59x0AF0d',
-        },
-        {
-            id: '24',
-            category: 'DNS SERVER',
-            title: 'How a DNS Server (Domain Name System) works.',
-            link: 'https://youtu.be/mpQZVYPuDGU?si=STyVEHKlr2ucpH7j',
-        },
-        {
-            id: '25',
-            category: 'HTTP',
-            title: 'SSL, TLS, HTTP, HTTPS Explained',
-            link: 'https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y',
-        }
-    ]
+{
+  "videoapi": [
+    {
+      "id": "13",
+      "category": "python",
+      "title": "#1 Python Tutorial for Beginners | Introduction to Python",
+      "link": "https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw"
+    },
+    {
+      "id": "14",
+      "category": "python",
+      "title": "#1 Python Tutorial for Beginners | Introduction to Python",
+      "link": "https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw"
+    },
+    {
+      "id": "15",
+      "category": "Computer Science",
+      "title": "Introduction to Programming and Computer Science - Full Course",
+      "link": "https://youtu.be/zOjov-2OZ0E?si=Si_wxSim1H1tvMQo"
+    },
+    {
+      "id": "16",
+      "category": "Dart SDK",
+      "title": "The Current Dart SDK version is 2.19.2 Error SOLVED in Flutter when running pub get",
+      "link": "https://youtu.be/8fnyDKLFZy0?si=dRL6OaPD_A7xmi0p"
+    },
+    {
+      "id": "17",
+      "category": "JSON",
+      "title": "Learn JSON in 10 Minutes",
+      "link": "https://youtu.be/iiADhChRriM?si=pxaGWk3RjZSICa2e"
+    },
+    {
+      "id": "18",
+      "category": "APIs",
+      "title": "APIs Explained | Real World Examples",
+      "link": "https://youtu.be/ZveW4_ZJtVY?si=WEh-AJ8_vTA1oJ-I"
+    },
+    {
+      "id": "19",
+      "category": "REST API",
+      "title": "What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka",
+      "link": "https://youtu.be/rtWH70_MMHM?si=BjGcvs36hXBEZUK9"
+    },
+    {
+      "id": "20",
+      "category": "JAVA API",
+      "title": "Java API | Developing Restful APIs | Rest API In Java | Java Tutorial | Java Training | Edureka",
+      "link": "https://youtu.be/5jQSat1cKMo?si=MJzhXu38kbp68zs8"
+    },
+    {
+      "id": "21",
+      "category": "COOKIES",
+      "title": "Difference between cookies, session and tokens",
+      "link": "https://youtu.be/GhrvZ5nUWNg?si=Os5tgKDbFX5YIdBi"
+    },
+    {
+      "id": "22",
+      "category": "token",
+      "title": "Token vs Session Authentication | Authentication Explained!!!",
+      "link": "https://youtu.be/QzntvHz23tw?si=yl3YPgN5TbD4hAzb"
+    },
+    {
+      "id": "23",
+      "category": "NODE.JS",
+      "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour",
+      "link": "https://youtu.be/TlB_eWDSMt4?si=Yvsx_5PZ59x0AF0d"
+    },
+    {
+      "id": "24",
+      "category": "DNS SERVER",
+      "title": "How a DNS Server (Domain Name System) works.",
+      "link": "https://youtu.be/mpQZVYPuDGU?si=STyVEHKlr2ucpH7j"
+    },
+    {
+      "id": "25",
+      "category": "HTTP",
+      "title": "SSL, TLS, HTTP, HTTPS Explained",
+      "link": "https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y"
+    }
+  ]
 }
-
-module.exports = apidata
