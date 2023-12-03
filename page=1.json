@@ -1,157 +1,156 @@
-// 20231203214753
-// http://localhost:5000/
-
-{
-  "videoapi": [
-    {
-      "id": "1",
-      "category": "portfolio",
-      "title": "Personal Portfolio website using pure HTML, CSS and JavaScript",
-      "link": "https://youtu.be/eRTeF4MPnCg?si=65L-f9zveSVx13aT"
-    },
-    {
-      "id": "2",
-      "category": "CSS Border",
-      "title": "Awesome CSS Border Animation & Image Hover Effects | Html CSS",
-      "link": "https://youtu.be/1C8lGN-1Sq0?si=hFbFcxug_x6EUnoP"
-    },
-    {
-      "id": "3",
-      "category": "Node JS",
-      "title": "Node JS in Hindi # 17 How Node js Works",
-      "link": "https://youtu.be/mGVFltBxLKU?si=C2glbsP1kbl1D4PI"
-    },
-    {
-      "id": "4",
-      "category": "Github",
-      "title": "Complete Git and GitHub Tutorial for Beginners",
-      "link": "https://www.youtube.com/embed/Ez8F0nW6S-w?si=6J3_VTVIgCnf5q67"
-    },
-    {
-      "id": "5",
-      "category": "MongoDB",
-      "title": "MongoDB Tutorial in 1 Hour (2023)",
-      "link": "https://youtu.be/J6mDkcqU_ZE?si=wRcZU7tJjZAJU6N1"
-    },
-    {
-      "id": "6",
-      "category": "CSS",
-      "title": "CSS Tutorial In Hindi (With Notes) ðŸ”¥",
-      "link": "https://youtu.be/Edsxf_NBFrw?si=9rW56GhiE333AM_q"
-    },
-    {
-      "id": "7",
-      "category": "HTML",
-      "title": "HTML Tutorial for Beginners | Complete HTML with Notes & Code",
-      "link": "https://youtu.be/HcOc7P5BMi4?si=0K624GCNHA6IYzn0"
-    },
-    {
-      "id": "8",
-      "category": "HTML",
-      "title": "How to Submit Custom HTML Form Data to Google Sheets | Learn To Earn | HTML Form To Google Sheets",
-      "link": "https://youtu.be/YGP2wKbXFJg?si=BfQ9qsNrWmxdkAgu"
-    },
-    {
-      "id": "9",
-      "category": "Javascript",
-      "title": "Introduction to JavaScript + Setup | JavaScript Tutorial in Hindi #1",
-      "link": "https://youtu.be/ER9SspLe4Hg?si=3OgjD8obtDcJVJK5"
-    },
-    {
-      "id": "10",
-      "category": "React JS",
-      "title": "Introduction to React Js + Installation | Complete React Course in Hindi #1",
-      "link": "https://youtu.be/-mJFZp84TIY?si=EEOsrZ4rgInkd2zy"
-    },
-    {
-      "id": "11",
-      "category": "React JS",
-      "title": "Adding Previous & Next Buttons to populate NewsItems | Complete React Course in Hindi #28",
-      "link": "https://youtu.be/FOjrXXdiCMs?si=lYvoHFo7tRStfiQb"
-    },
-    {
-      "id": "12",
-      "category": "Project",
-      "title": "Build A React Ecommerce App - React + Redux Toolkit + Firebase V9",
-      "link": "https://youtu.be/WyCwTqHtcwI?si=5vXIqPi-wdqwwpvP"
-    },
-    {
-      "id": "13",
-      "category": "python",
-      "title": "#1 Python Tutorial for Beginners | Introduction to Python",
-      "link": "https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw"
-    },
-    {
-      "id": "14",
-      "category": "python",
-      "title": "#1 Python Tutorial for Beginners | Introduction to Python",
-      "link": "https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw"
-    },
-    {
-      "id": "15",
-      "category": "Computer Science",
-      "title": "Introduction to Programming and Computer Science - Full Course",
-      "link": "https://youtu.be/zOjov-2OZ0E?si=Si_wxSim1H1tvMQo"
-    },
-    {
-      "id": "16",
-      "category": "Dart SDK",
-      "title": "The Current Dart SDK version is 2.19.2 Error SOLVED in Flutter when running pub get",
-      "link": "https://youtu.be/8fnyDKLFZy0?si=dRL6OaPD_A7xmi0p"
-    },
-    {
-      "id": "17",
-      "category": "JSON",
-      "title": "Learn JSON in 10 Minutes",
-      "link": "https://youtu.be/iiADhChRriM?si=pxaGWk3RjZSICa2e"
-    },
-    {
-      "id": "18",
-      "category": "APIs",
-      "title": "APIs Explained | Real World Examples",
-      "link": "https://youtu.be/ZveW4_ZJtVY?si=WEh-AJ8_vTA1oJ-I"
-    },
-    {
-      "id": "19",
-      "category": "REST API",
-      "title": "What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka",
-      "link": "https://youtu.be/rtWH70_MMHM?si=BjGcvs36hXBEZUK9"
-    },
-    {
-      "id": "20",
-      "category": "JAVA API",
-      "title": "Java API | Developing Restful APIs | Rest API In Java | Java Tutorial | Java Training | Edureka",
-      "link": "https://youtu.be/5jQSat1cKMo?si=MJzhXu38kbp68zs8"
-    },
-    {
-      "id": "21",
-      "category": "COOKIES",
-      "title": "Difference between cookies, session and tokens",
-      "link": "https://youtu.be/GhrvZ5nUWNg?si=Os5tgKDbFX5YIdBi"
-    },
-    {
-      "id": "22",
-      "category": "token",
-      "title": "Token vs Session Authentication | Authentication Explained!!!",
-      "link": "https://youtu.be/QzntvHz23tw?si=yl3YPgN5TbD4hAzb"
-    },
-    {
-      "id": "23",
-      "category": "NODE.JS",
-      "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour",
-      "link": "https://youtu.be/TlB_eWDSMt4?si=Yvsx_5PZ59x0AF0d"
-    },
-    {
-      "id": "24",
-      "category": "DNS SERVER",
-      "title": "How a DNS Server (Domain Name System) works.",
-      "link": "https://youtu.be/mpQZVYPuDGU?si=STyVEHKlr2ucpH7j"
-    },
-    {
-      "id": "25",
-      "category": "HTTP",
-      "title": "SSL, TLS, HTTP, HTTPS Explained",
-      "link": "https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y"
-    }
-  ]
+const apidata = {
+    videoapi: [
+        {
+            id: '1',
+            category: 'Javascript',
+            title: 'Learn JavaScript by Building 7 Games - Full Course',
+            link: 'https://youtu.be/ec8vSKJuZTk?si=WYV8sCAqaJaOiD_h'
+        },
+        {
+            id: '2',
+            category: 'Javascript',
+            title: 'Learn JavaScript - Full Course for Beginners',
+            link: 'https://youtu.be/PkZNo7MFNFg?si=xdFUfd9m1ugdLIvB'
+        },
+        {
+            id: '3',
+            category: 'Node JS',
+            title: 'Understanding JavaScript Node Js Modules: A Simple Explanation for Beginners',
+            link: 'https://youtu.be/d0sX7K9jhr4?si=loy8eDvyks_01WX2'
+        },
+        {
+            id: '4',
+            category: 'Github',
+            title: 'Git and GitHub Tutorial for Beginners',
+            link: 'https://youtu.be/tRZGeaHPoaw?si=pi7_Av_neFg8bEvz'
+        },
+        {
+            id: '5',
+            category: 'MongoDB',
+            title: 'MongoDB in 100 Seconds',
+            link: 'https://youtu.be/-bt_y4Loofg?si=SlsJt09JIhEl8ren'
+        },
+        {
+            id: '6',
+            category: 'CSS',
+            title: 'HTML & CSS Full Course - Beginner to Pro',
+            link: 'https://youtu.be/G3e-cpL7ofc?si=TiWGxL9LLb00rgn1'
+        },
+        {
+            id: '7',
+            category: 'HTML',
+            title: 'Learn HTML – Full Tutorial for Beginners (2022)',
+            link: 'https://youtu.be/kUMe1FH4CHE?si=u-7OkAkp8309zT2q'
+        },
+        {
+            id: '8',
+            category: 'HTML',
+            title: 'HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours',
+            link: 'https://youtu.be/mJgBOIoGihA?si=OoqAE9QKvFCvnLD6'
+        },
+        {
+            id: '9',
+            category: 'Javascript',
+            title: 'JavaScript Full Course for free 🌐',
+            link: 'https://youtu.be/8dWL3wF_OMw?si=h9p-t5oR4vZx2Tsf'
+        },
+        {
+            id: '10',
+            category: 'React JS',
+            title: 'React Tutorial for Beginners',
+            link: 'https://youtu.be/SqcY0GlETPk?si=7xhg52TQWQFCRh1D'
+        },
+        {
+            id: '11',
+            category: 'React JS',
+            title: "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+            link: 'https://youtu.be/bMknfKXIFA8?si=rIVIiTtXAI2WkDOT'
+        },
+        {
+            id: '12',
+            category: 'Bootsrap',
+            title: ' What is Bootstrap? // HTML, CSS, JavaScript (Beginners)',
+            link: 'https://youtu.be/AaVy9UR30Dc?si=deRA5nenr8TeA5Rk'
+        },
+        {
+            id: '13',
+            category: 'python',
+            title: '#1 Python Tutorial for Beginners | Introduction to Python',
+            link: 'https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw'
+        },
+        {
+            id: '14',
+            category: 'python',
+            title: '#1 Python Tutorial for Beginners | Introduction to Python',
+            link: 'https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw'
+        },
+        {
+            id: '15',
+            category: 'Computer Science',
+            title: 'Introduction to Programming and Computer Science - Full Course',
+            link: 'https://youtu.be/zOjov-2OZ0E?si=Si_wxSim1H1tvMQo'
+        },
+        {
+            id: '16',
+            category: 'Dart SDK',
+            title: 'The Current Dart SDK version is 2.19.2 Error SOLVED in Flutter when running pub get',
+            link: 'https://youtu.be/8fnyDKLFZy0?si=dRL6OaPD_A7xmi0p'
+        },
+        {
+            id: '17',
+            category: 'JSON',
+            title: 'Learn JSON in 10 Minutes',
+            link: 'https://youtu.be/iiADhChRriM?si=pxaGWk3RjZSICa2e'
+        },
+        {
+            id: '18',
+            category: 'APIs',
+            title: 'APIs Explained | Real World Examples',
+            link: 'https://youtu.be/ZveW4_ZJtVY?si=WEh-AJ8_vTA1oJ-I',
+        },
+        {
+            id: '19',
+            category: 'REST API',
+            title: 'What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka',
+            link: 'https://youtu.be/rtWH70_MMHM?si=BjGcvs36hXBEZUK9',
+        },
+        {
+            id: '20',
+            category: 'JAVA API',
+            title: 'Java API | Developing Restful APIs | Rest API In Java | Java Tutorial | Java Training | Edureka',
+            link: 'https://youtu.be/5jQSat1cKMo?si=MJzhXu38kbp68zs8',
+        },
+        {
+            id: '21',
+            category: 'COOKIES',
+            title: 'Difference between cookies, session and tokens',
+            link: 'https://youtu.be/GhrvZ5nUWNg?si=Os5tgKDbFX5YIdBi',
+        },
+        {
+            id: '22',
+            category: 'TOKEN',
+            title: 'Token vs Session Authentication | Authentication Explained!!!',
+            link: 'https://youtu.be/QzntvHz23tw?si=yl3YPgN5TbD4hAzb',
+        },
+        {
+            id: '23',
+            category: 'NODE.JS',
+            title: 'Node.js Tutorial for Beginners: Learn Node in 1 Hour',
+            link: 'https://youtu.be/TlB_eWDSMt4?si=Yvsx_5PZ59x0AF0d',
+        },
+        {
+            id: '24',
+            category: 'DNS SERVER',
+            title: 'How a DNS Server (Domain Name System) works.',
+            link: 'https://youtu.be/mpQZVYPuDGU?si=STyVEHKlr2ucpH7j',
+        },
+        {
+            id: '25',
+            category: 'HTTP',
+            title: 'SSL, TLS, HTTP, HTTPS Explained',
+            link: 'https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y',
+        }
+    ]
 }
+
+module.exports = apidata
