@@ -8,9 +8,9 @@
     },
     {
       "id": "14",
-      "category": "python",
-      "title": "#1 Python Tutorial for Beginners | Introduction to Python",
-      "link": "https://youtu.be/hEgO047GxaQ?si=MbSjgsqEO1ihUyJw"
+      "category": "Backend Development",
+      "title": "Backend Development explained in 2 minutes // Tech in 2",
+      "link": "https://youtu.be/cbSrsYiRamo?si=CbZZaXzw1lc0A_Mv"
     },
     {
       "id": "15",
@@ -21,7 +21,7 @@
     {
       "id": "16",
       "category": "Dart SDK",
-      "title": "The Current Dart SDK version is 2.19.2 Error SOLVED in Flutter when running pub get",
+      "title": "The Current Dart SDK version is 2.19.2 Error SOLVED ...",
       "link": "https://youtu.be/8fnyDKLFZy0?si=dRL6OaPD_A7xmi0p"
     },
     {
@@ -39,13 +39,13 @@
     {
       "id": "19",
       "category": "REST API",
-      "title": "What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka",
+      "title": "What is REST API? | REST API Tutorial | Edureka",
       "link": "https://youtu.be/rtWH70_MMHM?si=BjGcvs36hXBEZUK9"
     },
     {
       "id": "20",
       "category": "JAVA API",
-      "title": "Java API | Developing Restful APIs | Rest API In Java | Java Tutorial | Java Training | Edureka",
+      "title": "Java API | Developing Restful APIs | Rest API| Edureka",
       "link": "https://youtu.be/5jQSat1cKMo?si=MJzhXu38kbp68zs8"
     },
     {
@@ -72,11 +72,6 @@
       "title": "How a DNS Server (Domain Name System) works.",
       "link": "https://youtu.be/mpQZVYPuDGU?si=STyVEHKlr2ucpH7j"
     },
-    {
-      "id": "25",
-      "category": "HTTP",
-      "title": "SSL, TLS, HTTP, HTTPS Explained",
-      "link": "https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y"
-    }
+    
   ]
 }
