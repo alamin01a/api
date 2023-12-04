@@ -1,6 +1,78 @@
 {
   "videoapi": [
     {
+      "id": "1",
+      "category": "Javascript",
+      "title": "Learn JavaScript by Building 7 Games - Full Course",
+      "link": "https://youtu.be/ec8vSKJuZTk?si=WYV8sCAqaJaOiD_h"
+    },
+    {
+      "id": "2",
+      "category": "Javascript",
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "link": "https://youtu.be/PkZNo7MFNFg?si=xdFUfd9m1ugdLIvB"
+    },
+    {
+      "id": "3",
+      "category": "Node JS",
+      "title": "Understanding JavaScript Node Js Modules: A Simple Explanation for Beginners",
+      "link": "https://youtu.be/d0sX7K9jhr4?si=loy8eDvyks_01WX2"
+    },
+    {
+      "id": "4",
+      "category": "Github",
+      "title": "Git and GitHub Tutorial for Beginners",
+      "link": "https://youtu.be/tRZGeaHPoaw?si=pi7_Av_neFg8bEvz"
+    },
+    {
+      "id": "5",
+      "category": "MongoDB",
+      "title": "MongoDB in 100 Seconds",
+      "link": "https://youtu.be/-bt_y4Loofg?si=SlsJt09JIhEl8ren"
+    },
+    {
+      "id": "6",
+      "category": "CSS",
+      "title": "HTML & CSS Full Course - Beginner to Pro",
+      "link": "https://youtu.be/G3e-cpL7ofc?si=TiWGxL9LLb00rgn1"
+    },
+    {
+      "id": "7",
+      "category": "HTML",
+      "title": "Learn HTML â€“ Full Tutorial for Beginners (2022)",
+      "link": "https://youtu.be/kUMe1FH4CHE?si=u-7OkAkp8309zT2q"
+    },
+    {
+      "id": "8",
+      "category": "HTML",
+      "title": "HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours",
+      "link": "https://youtu.be/mJgBOIoGihA?si=OoqAE9QKvFCvnLD6"
+    },
+    {
+      "id": "9",
+      "category": "Javascript",
+      "title": "JavaScript Full Course for free ðŸŒ",
+      "link": "https://youtu.be/8dWL3wF_OMw?si=h9p-t5oR4vZx2Tsf"
+    },
+    {
+      "id": "10",
+      "category": "React JS",
+      "title": "React Tutorial for Beginners",
+      "link": "https://youtu.be/SqcY0GlETPk?si=7xhg52TQWQFCRh1D"
+    },
+    {
+      "id": "11",
+      "category": "React JS",
+      "title": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+      "link": "https://youtu.be/bMknfKXIFA8?si=rIVIiTtXAI2WkDOT"
+    },
+    {
+      "id": "12",
+      "category": "Bootsrap",
+      "title": " What is Bootstrap? // HTML, CSS, JavaScript (Beginners)",
+      "link": "https://youtu.be/AaVy9UR30Dc?si=deRA5nenr8TeA5Rk"
+    },
+    {
       "id": "13",
       "category": "python",
       "title": "#1 Python Tutorial for Beginners | Introduction to Python",
@@ -56,7 +128,7 @@
     },
     {
       "id": "22",
-      "category": "token",
+      "category": "TOKEN",
       "title": "Token vs Session Authentication | Authentication Explained!!!",
       "link": "https://youtu.be/QzntvHz23tw?si=yl3YPgN5TbD4hAzb"
     },
@@ -77,6 +149,72 @@
       "category": "HTTP",
       "title": "SSL, TLS, HTTP, HTTPS Explained",
       "link": "https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y"
+    },
+    {
+      "id": "26",
+      "category": "REACT & REDUX",
+      "title": "ðŸš€ðŸ”¥ Complete React & Redux Tutorial (2023) with Projects | Notes | Free Certification",
+      "link": "https://youtu.be/eILUmCJhl64?si=gZ3133urrs9ACdsU"
+    },
+    {
+      "id": "27",
+      "category": "REACT.JS",
+      "title": "React.js Full Course in Hindi for Beginners - 2023 | Master React in 12 Hours",
+      "link": "https://youtu.be/lLeZ8Cr2YVM?si=R7YWU074S4I1O1E5"
+    },
+    {
+      "id": "28",
+      "category": "",
+      "title": "Learn to Code Without Burning Out: How I Did It",
+      "link": "https://youtu.be/4bAZXEjxDDE?si=JEp2cJNkW-nm3qk8"
+    },
+    {
+      "id": "29",
+      "category": "Web Development",
+      "title": "Learn Web Development And ACTUALLY Get A Job In 2023 | Ultimate Guide",
+      "link": "https://youtu.be/kQ-4bgu2htk?si=ITgnFotIOxnh4opz"
+    },
+    {
+      "id": "30",
+      "category": "LEARNING",
+      "title": "How I Learned to Code in 4 Months & Got a Job! (No CS Degree, No Bootcamp)",
+      "link": "https://youtu.be/WR1ydijTx5E?si=XbXnJzJ04MWluP43"
+    },
+    {
+      "id": "31",
+      "category": "LEARNING",
+      "title": "How I Would Learn To Code (If I Could Start Over)",
+      "link": "https://youtu.be/k9WqpQp8VSU?si=NRNXVPw9CHmERh0a"
+    },
+    {
+      "id": "32",
+      "category": "PROGRAMMING LANGUAGE",
+      "title": "Best programming language to learn in 2024",
+      "link": "https://youtu.be/YhaPN9_lHPw?si=cY6mHpMUBunnIzit"
+    },
+    {
+      "id": "33",
+      "category": "PROGRAMMING LANGUAGE",
+      "title": "Fastest Way to Learn ANY Programming Language: 80-20 rule",
+      "link": "https://youtu.be/14BL_FwQCpM?si=9qI1EuZvcUQyBTGW"
+    },
+    {
+      "id": "34",
+      "category": "MAKE MONEY",
+      "title": "7 Ways to Make Money With Coding!",
+      "link": "https://youtu.be/x1oH4uurp_g?si=3QKz7hhujNUHWqIU"
+    },
+    {
+      "id": "35",
+      "category": "MAKE MONEY",
+      "title": "3 Ways to Make Money While Learning to Code",
+      "link": "https://youtu.be/eriZRPzMQkw?si=J0DTLJnDU39Noaqk"
+    },
+    {
+      "id": "36",
+      "category": "PROGRAMMING LANGUAGE",
+      "title": "Zero to Full-Time Programmer in 5 Steps",
+      "link": "https://youtu.be/s9iPo9YMU70?si=Vzqm_Y2p00zePxsN"
     }
   ]
 }
