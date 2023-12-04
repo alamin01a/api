@@ -1,6 +1,12 @@
 {
   "videoapi": [
     {
+      "id": "25",
+      "category": "HTTP",
+      "title": "SSL, TLS, HTTP, HTTPS Explained",
+      "link": "https://youtu.be/hExRDVZHhig?si=bIZ8GOlnXFNNA61Y"
+    },
+    {
       "id": "26",
       "category": "REACT & REDUX",
       "title": "ðŸš€ðŸ”¥ Complete React & Redux Tutorial (2023) with Projects | Notes | Free Certification",
