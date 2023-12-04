@@ -1,79 +1,71 @@
-const apidata = {
-    videoapi: [
-        {
-            id: '26',
-            category: 'REACT & REDUX',
-            title: '🚀🔥 Complete React & Redux Tutorial (2023) with Projects | Notes | Free Certification',
-            link: 'https://youtu.be/eILUmCJhl64?si=gZ3133urrs9ACdsU',
-        },
-        {
-            id: '27',
-            category: 'REACT.JS',
-            title: 'React.js Full Course in Hindi for Beginners - 2023 | Master React in 12 Hours',
-            link: 'https://youtu.be/lLeZ8Cr2YVM?si=R7YWU074S4I1O1E5',
-        },
-        {
-            id: '28',
-            category: 'LEARNING CODE',
-            title: 'Learn to Code Without Burning Out: How I Did It',
-            link: 'https://youtu.be/4bAZXEjxDDE?si=JEp2cJNkW-nm3qk8',
-        },
-        {
-            id: '29',
-            category: 'Web Development',
-            title: 'Learn Web Development And ACTUALLY Get A Job In 2023 | Ultimate Guide',
-            link: 'https://youtu.be/kQ-4bgu2htk?si=ITgnFotIOxnh4opz',
-        },
-        {
-            id: '30',
-            category: 'LEARNING',
-            title: 'How I Learned to Code in 4 Months & Got a Job! (No CS Degree, No Bootcamp)',
-            link: 'https://youtu.be/WR1ydijTx5E?si=XbXnJzJ04MWluP43',
-        },
-        {
-            id: '31',
-            category: 'LEARNING',
-            title: 'How I Would Learn To Code (If I Could Start Over)',
-            link: 'https://youtu.be/k9WqpQp8VSU?si=NRNXVPw9CHmERh0a',
-        },
-        {
-            id: '32',
-            category: 'PROGRAMMING LANGUAGE',
-            title: 'Best programming language to learn in 2024',
-            link: 'https://youtu.be/YhaPN9_lHPw?si=cY6mHpMUBunnIzit',
-        },
-        {
-            id: '33',
-            category: 'PROGRAMMING LANGUAGE',
-            title: 'Fastest Way to Learn ANY Programming Language: 80-20 rule',
-            link: 'https://youtu.be/14BL_FwQCpM?si=9qI1EuZvcUQyBTGW',
-        },
-        {
-            id: '34',
-            category: 'MAKE MONEY',
-            title: '7 Ways to Make Money With Coding!',
-            link: 'https://youtu.be/x1oH4uurp_g?si=3QKz7hhujNUHWqIU',
-        },
-        {
-            id: '35',
-            category: 'MAKE MONEY',
-            title: '3 Ways to Make Money While Learning to Code',
-            link: 'https://youtu.be/eriZRPzMQkw?si=J0DTLJnDU39Noaqk',
-        },
-        {
-            id: '36',
-            category: 'PROGRAMMING LANGUAGE',
-            title: 'Zero to Full-Time Programmer in 5 Steps',
-            link: 'https://youtu.be/s9iPo9YMU70?si=Vzqm_Y2p00zePxsN',
-        },
-        {
-            id: '37',
-            category: 'LEARN CODE FREE' ,
-            title:'FASTEST Way to Learn Coding (for FREE) and ACTUALLY Get a Job',
-            link: 'https://youtu.be/aPQt7BGohgg?si=4J0pW860AfY8uJly',
-        },
-
-    ]
+{
+  "videoapi": [
+    {
+      "id": "26",
+      "category": "REACT & REDUX",
+      "title": "ðŸš€ðŸ”¥ Complete React & Redux Tutorial (2023) with Projects | Notes | Free Certification",
+      "link": "https://youtu.be/eILUmCJhl64?si=gZ3133urrs9ACdsU"
+    },
+    {
+      "id": "27",
+      "category": "REACT.JS",
+      "title": "React.js Full Course in Hindi for Beginners - 2023 | Master React in 12 Hours",
+      "link": "https://youtu.be/lLeZ8Cr2YVM?si=R7YWU074S4I1O1E5"
+    },
+    {
+      "id": "28",
+      "category": "",
+      "title": "Learn to Code Without Burning Out: How I Did It",
+      "link": "https://youtu.be/4bAZXEjxDDE?si=JEp2cJNkW-nm3qk8"
+    },
+    {
+      "id": "29",
+      "category": "Web Development",
+      "title": "Learn Web Development And ACTUALLY Get A Job In 2023 | Ultimate Guide",
+      "link": "https://youtu.be/kQ-4bgu2htk?si=ITgnFotIOxnh4opz"
+    },
+    {
+      "id": "30",
+      "category": "LEARNING",
+      "title": "How I Learned to Code in 4 Months & Got a Job! (No CS Degree, No Bootcamp)",
+      "link": "https://youtu.be/WR1ydijTx5E?si=XbXnJzJ04MWluP43"
+    },
+    {
+      "id": "31",
+      "category": "LEARNING",
+      "title": "How I Would Learn To Code (If I Could Start Over)",
+      "link": "https://youtu.be/k9WqpQp8VSU?si=NRNXVPw9CHmERh0a"
+    },
+    {
+      "id": "32",
+      "category": "PROGRAMMING LANGUAGE",
+      "title": "Best programming language to learn in 2024",
+      "link": "https://youtu.be/YhaPN9_lHPw?si=cY6mHpMUBunnIzit"
+    },
+    {
+      "id": "33",
+      "category": "PROGRAMMING LANGUAGE",
+      "title": "Fastest Way to Learn ANY Programming Language: 80-20 rule",
+      "link": "https://youtu.be/14BL_FwQCpM?si=9qI1EuZvcUQyBTGW"
+    },
+    {
+      "id": "34",
+      "category": "MAKE MONEY",
+      "title": "7 Ways to Make Money With Coding!",
+      "link": "https://youtu.be/x1oH4uurp_g?si=3QKz7hhujNUHWqIU"
+    },
+    {
+      "id": "35",
+      "category": "MAKE MONEY",
+      "title": "3 Ways to Make Money While Learning to Code",
+      "link": "https://youtu.be/eriZRPzMQkw?si=J0DTLJnDU39Noaqk"
+    },
+    {
+      "id": "36",
+      "category": "PROGRAMMING LANGUAGE",
+      "title": "Zero to Full-Time Programmer in 5 Steps",
+      "link": "https://youtu.be/s9iPo9YMU70?si=Vzqm_Y2p00zePxsN"
+    }
+  ]
 }
-
-module.exports = apidata
+      
